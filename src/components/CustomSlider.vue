@@ -5,7 +5,7 @@
       src="../assets/userLogo.jpeg"
       alt=""
     >
-    <div class="title">夜尽天明</div>
+    <div class="title">那一天的早上</div>
     <div class="right-content">
       <!-- <div class="item">
         <div class="num">123</div>粉丝
@@ -111,11 +111,11 @@ export default defineComponent({
   .right-logo {
     width: 130px;
     border-radius: 50%;
-    animation: mylogo 3s;
-    -moz-animation: mylogo 3s; /* Firefox */
-    -webkit-animation: mylogo 3s; /* Safari and Chrome */
-    -o-animation: mylogo 3s; /* Opera */
-    animation-iteration-count: infinite;
+    // animation: mylogo 3s;
+    // -moz-animation: mylogo 3s; /* Firefox */
+    // -webkit-animation: mylogo 3s; /* Safari and Chrome */
+    // -o-animation: mylogo 3s; /* Opera */
+    // animation-iteration-count: infinite;
   }
   .title {
     font-size: 25px;

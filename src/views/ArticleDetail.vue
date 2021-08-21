@@ -138,7 +138,7 @@ export default defineComponent({
       isLoading: false,
       isMobileOrPc: isMobileOrPc(),
       params: {
-        id: "",
+        id: "60e59be50911fa3700fbdfb1",
         type: 1, //文章类型 => 1: 普通文章，2: 简历，3: 管理员介绍
       } as ArticleDetailParams,
       content: "",
@@ -322,10 +322,10 @@ export default defineComponent({
     };
   },
   beforeUnmount(): void {
-    document.title = "夜尽天明的博客网站";
+    document.title = "那一天的早上的博客网站";
     document
       .getElementById("keywords")
-      .setAttribute("content", "夜尽天明 的博客网站");
+      .setAttribute("content", "那一天的早上 的博客网站");
     document
       .getElementById("description")
       .setAttribute(

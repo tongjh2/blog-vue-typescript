@@ -18,10 +18,15 @@
             :href="state.href + article._id"
             target="_blank"
           >
-            <img
+            <!-- <img
               class="wrap-img img-blur-done"
               :data-src="article.img_url"
               data-has-lazy-src="false"
+              src="../assets/bg.jpg"
+              alt="文章封面"
+            /> -->
+            <img
+              class="wrap-img img-blur-done"
               src="../assets/bg.jpg"
               alt="文章封面"
             />
