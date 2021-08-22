@@ -5,7 +5,7 @@
       src="../assets/userLogo.jpeg"
       alt=""
     >
-    <div class="title">那一天的早上</div>
+    <div class="title">想象之中</div>
     <div class="right-content">
       <!-- <div class="item">
         <div class="num">123</div>粉丝

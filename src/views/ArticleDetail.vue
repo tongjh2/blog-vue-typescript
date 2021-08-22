@@ -322,10 +322,10 @@ export default defineComponent({
     };
   },
   beforeUnmount(): void {
-    document.title = "那一天的早上的博客网站";
+    document.title = "想象之中的博客网站";
     document
       .getElementById("keywords")
-      .setAttribute("content", "那一天的早上 的博客网站");
+      .setAttribute("content", "想象之中 的博客网站");
     document
       .getElementById("description")
       .setAttribute(
