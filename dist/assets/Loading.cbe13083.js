@@ -1,0 +1,1 @@
+import{d as a,p as s,l as e,c as d,e as o,m as n,g as t}from"./vendor.e7f10a53.js";var c=a({name:"LoadingCustom"});const r=n();s("data-v-eeedbf2e");const l={class:"loading"},g=t("img",{src:"./assets/loading.8152987c.svg",alt:"拼命加载中..."},null,-1);e();const i=r(((a,s,e,n,t,c)=>(d(),o("div",l,[g]))));c.render=i,c.__scopeId="data-v-eeedbf2e";export{c as _};

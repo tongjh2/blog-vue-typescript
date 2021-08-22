@@ -1,0 +1,1 @@
+import{d as a,p as s,l as d,c as e,e as o,m as c}from"./vendor.e7f10a53.js";var n=a({name:"LoadEnd"});const r=c();s("data-v-1b4c88de");const t={class:"load-end"};d();const v=r(((a,s,d,c,n,r)=>(e(),o("div",t," --------- 我也是有底线的啦 --------- "))));n.render=v,n.__scopeId="data-v-1b4c88de";export{n as _};
