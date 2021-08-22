@@ -128,8 +128,8 @@ export default defineComponent({
       } as ArticlesParams,
       href:
         import.meta.env.MODE === "development"
-          ? "http://localhost:3001/articleDetail?article_id="
-          : "https://biaochenxuying.cn/articleDetail?article_id="
+          ? "/articleDetail?article_id="
+          : "/articleDetail?article_id="
     });
 
     const formatTime = (value: string | Date): string => {

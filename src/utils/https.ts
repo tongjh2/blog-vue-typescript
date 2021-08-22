@@ -20,7 +20,7 @@ if (import.meta.env.MODE === "development") {
 } else {
   // 生产环境下
   service = axios.create({
-    baseURL: "http://127.0.0.1:3000",
+    baseURL: "http://39.103.169.14:3000/",
     timeout: 50000
   });
 }
